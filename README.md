@@ -1,7 +1,7 @@
 # Pratyush Panda — Projects
 
 A curated collection of selected software development projects, full-stack applications, backend systems, and professional technical work.
-
+**Portfolio:** [Link]([https://www.crio.do/learn/portfolio/pratyushpanda530/])
 ---
 
 ## Projects
